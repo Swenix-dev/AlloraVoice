@@ -24,7 +24,9 @@ YouTube · Udemy · Coursera · VLC · podcasts · games · video calls – if i
 ## 🎬 Watch the intro
 
 <div align="center">
-<a href="docs/video/alloravoice-intro.mp4">
+
+
+
   <img src="docs/images/video-thumbnail.png" alt="Play the AlloraVoice intro video (1:38)" width="80%">
 </a>
 
@@ -130,7 +132,7 @@ kpackagetool6 -t Plasma/Applet -u alloravoice-2.5.3.plasmoid      # update
 **Option C – from source**
 
 ```bash
-git clone https://github.com/<your-user>/AlloraVoice.git
+git clone https://github.com/Swenix-dev/AlloraVoice.git
 cd AlloraVoice
 ./build.sh                                   # → dist/alloravoice-<version>.plasmoid
 kpackagetool6 -t Plasma/Applet -i dist/alloravoice-*.plasmoid
