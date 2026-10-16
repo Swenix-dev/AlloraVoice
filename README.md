@@ -27,11 +27,9 @@ YouTube · Udemy · Coursera · VLC · podcasts · games · video calls – if i
 
 
 
-  <img src="docs/images/video-thumbnail.png" alt="Play the AlloraVoice intro video (1:38)" width="80%">
-</a>
 
-<sub>1 min 38 s · 1080p · <a href="docs/video/alloravoice-intro.mp4">download MP4</a> · <a href="docs/video/alloravoice-intro.en.srt">subtitles</a></sub>
-</div>
+
+
 
 <!--
   Tip for the repository owner: GitHub only plays videos inline if they are uploaded as an attachment.
