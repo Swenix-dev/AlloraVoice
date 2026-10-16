@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "SeaQ"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Live translation of everything spoken on your PC into a natural voice",
+        "Description[de]": "Übersetzt alles, was auf dem PC gesprochen wird, live in eine natürliche Stimme",
+        "Icon": "audio-headset",
+        "Id": "org.seaq.alloravoice",
+        "License": "GPL-3.0-or-later",
+        "Name": "AlloraVoice",
+        "Version": "2.5.3",
+        "Website": ""
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

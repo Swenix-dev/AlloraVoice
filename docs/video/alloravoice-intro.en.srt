@@ -1,0 +1,36 @@
+1
+00:00:00,300 --> 00:00:05,599
+This is AlloraVoice – live translation for KDE Plasma.
+
+2
+00:00:06,299 --> 00:00:14,599
+Watching a course or a video in a language you don't fully understand? Following every word is exhausting.
+
+3
+00:00:15,300 --> 00:00:23,600
+AlloraVoice simply listens along and speaks everything in your language – with a natural voice.
+
+4
+00:00:24,300 --> 00:00:38,600
+It captures your system audio, Whisper recognizes the speech, the text is translated, and a Microsoft neural voice reads it aloud – while the original is turned down.
+
+5
+00:00:39,299 --> 00:00:53,600
+Click the headset icon to open the popup. Switch translation on, pick a language pair, and watch what is being said – live.
+
+6
+00:00:54,299 --> 00:01:03,600
+Choose from all Microsoft neural voices in seventy-three languages – female or male.
+
+7
+00:01:04,299 --> 00:01:15,599
+Seek in the video and AlloraVoice follows. If someone speaks fast, the voice speeds up smoothly instead of cutting sentences off.
+
+8
+00:01:16,299 --> 00:01:29,599
+To install, download the file, add it through Add Widgets, drag it into your panel, and click set up.
+
+9
+00:01:30,299 --> 00:01:37,599
+AlloraVoice is open source under the GPL version three. Enjoy learning!
+

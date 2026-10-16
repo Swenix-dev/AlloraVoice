@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="sourceLang" type="String"><default>en</default></entry>
+    <entry name="targetLang" type="String"><default>de</default></entry>
+    <!-- angeheftete Sprachen (stehen oben in der Auswahl) -->
+    <entry name="favoriteLangs" type="String"><default>["en","de"]</default></entry>
+    <!-- Schnellauswahl-Sprachpaare -->
+    <entry name="quickPairs" type="String"><default>[{"s":"en","t":"de"},{"s":"de","t":"en"}]</default></entry>
+    <entry name="voiceGender" type="String"><default>female</default></entry>
+    <!-- gewählte Stimme je Zielsprache als JSON: {"de":{"female":"…","male":"…"}} -->
+    <entry name="voiceChoices" type="String"><default>{}</default></entry>
+    <!-- zwischengespeicherte Stimmenliste von Microsoft -->
+    <entry name="voiceCache" type="String"><default>[]</default></entry>
+    <entry name="rate" type="Int"><default>0</default></entry>
+    <entry name="pitch" type="Int"><default>0</default></entry>
+    <entry name="ttsVolume" type="Int"><default>100</default></entry>
+    <entry name="originalVolume" type="Int"><default>100</default></entry>
+    <entry name="duckEnabled" type="Bool"><default>true</default></entry>
+    <entry name="duckLevel" type="Int"><default>20</default></entry>
+    <entry name="syncMode" type="Bool"><default>true</default></entry>
+    <entry name="emergencyLag" type="Int"><default>8</default></entry>
+    <entry name="mediaSync" type="Bool"><default>true</default></entry>
+    <entry name="adaptiveTempo" type="Bool"><default>true</default></entry>
+    <entry name="recognizer" type="String"><default>whisper-base</default></entry>
+    <entry name="responsiveness" type="String"><default>balanced</default></entry>
+    <entry name="translator" type="String"><default>google</default></entry>
+    <entry name="deeplKey" type="String"><default></default></entry>
+    <entry name="sensitivity" type="Int"><default>3</default></entry>
+    <entry name="overlay" type="Bool"><default>false</default></entry>
+    <entry name="overlayShowOriginal" type="Bool"><default>true</default></entry>
+  </group>
+</kcfg>

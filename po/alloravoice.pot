@@ -1,0 +1,693 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AlloraVoice 2.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-16 23:34+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: package/contents/ui/FullRepresentation.qml:57
+msgid "Whisper Tiny – fastest"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:58
+msgid "Whisper Base – balanced (recommended)"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:59
+msgid "Whisper Small – more accurate, more CPU"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:60
+msgid "Google Online – fast, needs internet"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:63
+msgid "Fast – short segments, little delay"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:64
+msgid "Balanced (recommended)"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:65
+msgid "Precise – whole sentences, more context"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:68
+msgid "Google Translate – free"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:69
+msgid "DeepL – best quality (API key)"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:148
+msgid "Switch translation on/off (middle-click on the icon works too)"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:166
+msgid "Quick select"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:182
+msgid "Click: select · Right-click: remove from quick select"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:195
+msgid "Save current pair"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:212
+msgid "From"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:227
+msgid "Swap languages"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:235
+msgid "To"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:251
+msgid ""
+"One-time setup required: voices, translator and speech recognition will be "
+"installed (about 5 minutes)."
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:254
+msgid "Set up now"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:298
+msgid "LIVE"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:306
+msgid "Delay %1 s"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:313
+msgid "· Tempo %1×"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:319
+msgid "· %1 skipped"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:325
+msgid "⏸ Paused – voice stopped"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:326
+msgid "↻ Jumped to the new position"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:368
+msgid "Waiting for speech (%1) …"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:369
+msgid ""
+"Switch translation on above and play a video – YouTube, Udemy or anything "
+"else."
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:386
+msgid "Voice"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:387
+msgid "Sound"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:388
+msgid "Sync"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:389
+msgid "History"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:414
+msgid "Female voice"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:415
+msgid "Male voice"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:434
+msgid "Speaker (%1)"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:449
+msgid "Listen"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:456
+msgid ""
+"Microsoft neural voices – they sound like real speakers. “Very natural” "
+"marks the newest models."
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:472
+msgid "Base speaking rate"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:480
+msgid "Pitch"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:489
+msgid "Voice volume"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:516
+msgid "Original volume"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:530
+msgid "Lower the original while speaking"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:533
+msgid "Like a dubbed film: music and sounds stay quietly audible"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:548
+msgid "Lower original to"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:555
+msgid "Presets"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:561
+msgid "Translation only"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:562
+#: package/contents/ui/FullRepresentation.qml:624
+msgid "Dub"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:563
+msgid "Interpreter"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:564
+msgid "Both equal"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:584
+msgid "Subtitle window"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:587
+msgid "Floating live subtitles above all windows, movable with the mouse"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:600
+msgid "Also show the original text"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:631
+msgid "Follow seeking & pausing"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:635
+msgid ""
+"Detects seeking and pausing in YouTube, Udemy, VLC … and drops everything "
+"old immediately"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:636
+msgid "Media detection not connected yet – switch the widget off and on"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:653
+msgid "Adapt tempo automatically"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:656
+msgid ""
+"If the original is spoken fast, the voice speaks faster too – without "
+"sounding higher. Sentences are never cut off."
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:673
+msgid "Emergency jump on large backlog"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:676
+msgid ""
+"Only if even the faster tempo is not enough: jumps to the current position "
+"between two sentences"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:691
+msgid "Jump only after a backlog of"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:700
+msgid "Recognition & translation"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:706
+msgid "Speech recognition"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:716
+msgid "Responsiveness"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:726
+msgid "Translator"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:737
+msgid "DeepL API key (free at deepl.com/pro-api)"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:744
+msgid "Sensitivity (higher = ignores quiet noise)"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:754
+msgid ""
+"Whisper runs privately on your computer. Switching languages briefly loads a"
+" matching model the first time."
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:762
+msgid "Run setup again"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:809
+msgid "Nothing translated yet"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:822
+msgid "Copy all"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:837
+msgid "Clear"
+msgstr ""
+
+#: package/contents/ui/LanguageCombo.qml:49
+msgid "Unpin"
+msgstr ""
+
+#: package/contents/ui/LanguageCombo.qml:49
+msgid "Pin to top"
+msgstr ""
+
+#: package/contents/ui/SettingSlider.qml:36
+msgid "Reset"
+msgstr ""
+
+#: package/contents/ui/SubtitleOverlay.qml:21
+msgid "AlloraVoice subtitles"
+msgstr ""
+
+#: package/contents/ui/main.qml:48
+msgid "English"
+msgstr ""
+
+#: package/contents/ui/main.qml:49
+msgid "German"
+msgstr ""
+
+#: package/contents/ui/main.qml:50
+msgid "Afrikaans"
+msgstr ""
+
+#: package/contents/ui/main.qml:51
+msgid "Albanian"
+msgstr ""
+
+#: package/contents/ui/main.qml:52
+msgid "Amharic"
+msgstr ""
+
+#: package/contents/ui/main.qml:53
+msgid "Arabic"
+msgstr ""
+
+#: package/contents/ui/main.qml:54
+msgid "Azerbaijani"
+msgstr ""
+
+#: package/contents/ui/main.qml:55
+msgid "Basque"
+msgstr ""
+
+#: package/contents/ui/main.qml:56
+msgid "Bengali"
+msgstr ""
+
+#: package/contents/ui/main.qml:57
+msgid "Burmese"
+msgstr ""
+
+#: package/contents/ui/main.qml:58
+msgid "Bosnian"
+msgstr ""
+
+#: package/contents/ui/main.qml:59
+msgid "Bulgarian"
+msgstr ""
+
+#: package/contents/ui/main.qml:60
+msgid "Chinese"
+msgstr ""
+
+#: package/contents/ui/main.qml:61
+msgid "Danish"
+msgstr ""
+
+#: package/contents/ui/main.qml:62
+msgid "Estonian"
+msgstr ""
+
+#: package/contents/ui/main.qml:63
+msgid "Filipino"
+msgstr ""
+
+#: package/contents/ui/main.qml:64
+msgid "Finnish"
+msgstr ""
+
+#: package/contents/ui/main.qml:65
+msgid "French"
+msgstr ""
+
+#: package/contents/ui/main.qml:66
+msgid "Galician"
+msgstr ""
+
+#: package/contents/ui/main.qml:67
+msgid "Georgian"
+msgstr ""
+
+#: package/contents/ui/main.qml:68
+msgid "Greek"
+msgstr ""
+
+#: package/contents/ui/main.qml:69
+msgid "Gujarati"
+msgstr ""
+
+#: package/contents/ui/main.qml:70
+msgid "Hebrew"
+msgstr ""
+
+#: package/contents/ui/main.qml:71
+msgid "Hindi"
+msgstr ""
+
+#: package/contents/ui/main.qml:72
+msgid "Indonesian"
+msgstr ""
+
+#: package/contents/ui/main.qml:73
+msgid "Icelandic"
+msgstr ""
+
+#: package/contents/ui/main.qml:74
+msgid "Italian"
+msgstr ""
+
+#: package/contents/ui/main.qml:75
+msgid "Japanese"
+msgstr ""
+
+#: package/contents/ui/main.qml:76
+msgid "Javanese"
+msgstr ""
+
+#: package/contents/ui/main.qml:77
+msgid "Kannada"
+msgstr ""
+
+#: package/contents/ui/main.qml:78
+msgid "Kazakh"
+msgstr ""
+
+#: package/contents/ui/main.qml:79
+msgid "Catalan"
+msgstr ""
+
+#: package/contents/ui/main.qml:80
+msgid "Khmer"
+msgstr ""
+
+#: package/contents/ui/main.qml:81
+msgid "Korean"
+msgstr ""
+
+#: package/contents/ui/main.qml:82
+msgid "Croatian"
+msgstr ""
+
+#: package/contents/ui/main.qml:83
+msgid "Lao"
+msgstr ""
+
+#: package/contents/ui/main.qml:84
+msgid "Latvian"
+msgstr ""
+
+#: package/contents/ui/main.qml:85
+msgid "Lithuanian"
+msgstr ""
+
+#: package/contents/ui/main.qml:86
+msgid "Malay"
+msgstr ""
+
+#: package/contents/ui/main.qml:87
+msgid "Malayalam"
+msgstr ""
+
+#: package/contents/ui/main.qml:88
+msgid "Maltese"
+msgstr ""
+
+#: package/contents/ui/main.qml:89
+msgid "Marathi"
+msgstr ""
+
+#: package/contents/ui/main.qml:90
+msgid "Macedonian"
+msgstr ""
+
+#: package/contents/ui/main.qml:91
+msgid "Mongolian"
+msgstr ""
+
+#: package/contents/ui/main.qml:92
+msgid "Nepali"
+msgstr ""
+
+#: package/contents/ui/main.qml:93
+msgid "Dutch"
+msgstr ""
+
+#: package/contents/ui/main.qml:94
+msgid "Norwegian"
+msgstr ""
+
+#: package/contents/ui/main.qml:95
+msgid "Pashto"
+msgstr ""
+
+#: package/contents/ui/main.qml:96
+msgid "Persian"
+msgstr ""
+
+#: package/contents/ui/main.qml:97
+msgid "Polish"
+msgstr ""
+
+#: package/contents/ui/main.qml:98
+msgid "Portuguese"
+msgstr ""
+
+#: package/contents/ui/main.qml:99
+msgid "Romanian"
+msgstr ""
+
+#: package/contents/ui/main.qml:100
+msgid "Russian"
+msgstr ""
+
+#: package/contents/ui/main.qml:101
+msgid "Swedish"
+msgstr ""
+
+#: package/contents/ui/main.qml:102
+msgid "Serbian"
+msgstr ""
+
+#: package/contents/ui/main.qml:103
+msgid "Sinhala"
+msgstr ""
+
+#: package/contents/ui/main.qml:104
+msgid "Slovak"
+msgstr ""
+
+#: package/contents/ui/main.qml:105
+msgid "Slovenian"
+msgstr ""
+
+#: package/contents/ui/main.qml:106
+msgid "Somali"
+msgstr ""
+
+#: package/contents/ui/main.qml:107
+msgid "Spanish"
+msgstr ""
+
+#: package/contents/ui/main.qml:108
+msgid "Sundanese"
+msgstr ""
+
+#: package/contents/ui/main.qml:109
+msgid "Swahili"
+msgstr ""
+
+#: package/contents/ui/main.qml:110
+msgid "Tamil"
+msgstr ""
+
+#: package/contents/ui/main.qml:111
+msgid "Telugu"
+msgstr ""
+
+#: package/contents/ui/main.qml:112
+msgid "Thai"
+msgstr ""
+
+#: package/contents/ui/main.qml:113
+msgid "Czech"
+msgstr ""
+
+#: package/contents/ui/main.qml:114
+msgid "Turkish"
+msgstr ""
+
+#: package/contents/ui/main.qml:115
+msgid "Ukrainian"
+msgstr ""
+
+#: package/contents/ui/main.qml:116
+msgid "Hungarian"
+msgstr ""
+
+#: package/contents/ui/main.qml:117
+msgid "Urdu"
+msgstr ""
+
+#: package/contents/ui/main.qml:118
+msgid "Uzbek"
+msgstr ""
+
+#: package/contents/ui/main.qml:119
+msgid "Vietnamese"
+msgstr ""
+
+#: package/contents/ui/main.qml:120
+msgid "Welsh"
+msgstr ""
+
+#: package/contents/ui/main.qml:123
+msgid "Automatic"
+msgstr ""
+
+#: package/contents/ui/main.qml:132
+msgid "Setup required"
+msgstr ""
+
+#: package/contents/ui/main.qml:133 package/contents/ui/main.qml:135
+msgid "Starting …"
+msgstr ""
+
+#: package/contents/ui/main.qml:136
+msgid "Loading speech model …"
+msgstr ""
+
+#: package/contents/ui/main.qml:137
+msgid "Listening"
+msgstr ""
+
+#: package/contents/ui/main.qml:138
+msgid "Translating …"
+msgstr ""
+
+#: package/contents/ui/main.qml:139
+msgid "Speaking"
+msgstr ""
+
+#: package/contents/ui/main.qml:140
+msgid "Error"
+msgstr ""
+
+#: package/contents/ui/main.qml:141
+msgid "Off"
+msgstr ""
+
+#: package/contents/ui/main.qml:188 package/contents/ui/main.qml:189
+msgid "Automatically detect"
+msgstr ""
+
+#: package/contents/ui/main.qml:226 package/contents/ui/main.qml:228
+msgid "very natural"
+msgstr ""
+
+#: package/contents/ui/main.qml:313
+msgid "Translation failed: %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:314
+msgid ""
+"All translators are unreachable right now – check your internet connection."
+msgstr ""
+
+#: package/contents/ui/main.qml:315
+msgid ""
+"Whisper is not installed – choose “Google Online” as recognition or run the "
+"setup again."
+msgstr ""
+
+#: package/contents/ui/main.qml:316
+msgid "Audio capture stopped."
+msgstr ""
+
+#: package/contents/ui/main.qml:317
+msgid "Voice output failed: %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:318
+msgid "Could not start: %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:319
+msgid "No audio output device found."
+msgstr ""
+
+#: package/contents/ui/main.qml:320
+msgid "Missing program: %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:423
+msgid ""
+"Background service does not start. Log: "
+"~/.local/share/alloravoice/backend.log"
+msgstr ""
