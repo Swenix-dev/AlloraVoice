@@ -26,16 +26,9 @@ YouTube · Udemy · Coursera · VLC · podcasts · games · video calls – if i
 <div align="center">
 
 
+https://github.com/user-attachments/assets/af216988-979f-447a-a551-9cd623fedcdb
 
 
-
-
-
-<!--
-  Tip for the repository owner: GitHub only plays videos inline if they are uploaded as an attachment.
-  Edit this README on github.com, drag docs/video/alloravoice-intro.mp4 into the editor and replace
-  the thumbnail block above with the generated https://github.com/user-attachments/assets/… link.
--->
 
 ---
 
